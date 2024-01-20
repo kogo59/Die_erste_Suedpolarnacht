@@ -580,8 +580,16 @@ Zurückhaltung, schwerer Kummer, erhabene Begeisterung sind für gewöhnlich nic
 wahrzunehmen, In Uruguay ist wirklich das Leben ein frisch sprudelnder,
 quellender Strom.
 
-:::
+:::: break-before
+|                                       |                                       |
+|:-------------------------------------:|:-------------------------------------:|
+| ![](Die_erste_Suedpolarnacht_032a.jpg ""){#b032a width=50%}<br />Häuptling Colchicoli. |![](Die_erste_Suedpolarnacht_032b.jpg ""){#b032b width=50%}<br />Eine von seinen Frauen.|
+|&nbsp;|&nbsp;|
+Table: Onatypen.
 
+::::
+
+:::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

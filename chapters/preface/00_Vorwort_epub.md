@@ -362,9 +362,9 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Die Ausläufer der Cordilleren, Beaglekanal](ch006.xhtml#b024)
 * Onafrauen in ihrer vollständigen Kleidung, mit kleinen Kindern auf dem Rücken
 * Onamänner auf der Jagd
-* Onatypen. Häuptling Colchicoli. Eine von seinen Frauen
-* Ein Onahaus
-* Onas auf dem Marsche 
+* [Onatypen. Häuptling Colchicoli. Eine von seinen Frauen](ch006.xhtml#b032a)
+* [Ein Onahaus](ch007.xhtml#b036a)
+* [Onas auf dem Marsche](ch007.xhtml#b036b)
 * Ein Ona als Bogenschütze
 * Ein Onajäger, schussbereit
 * Ein männlicher Seelöwe
