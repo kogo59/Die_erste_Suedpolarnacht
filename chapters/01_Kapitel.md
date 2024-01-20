@@ -1,6 +1,5 @@
 # <small>I. Kapitel.</small><br />In und um Rio de Janeiro. {#erstes .unnumbered}
 
-
 ::: align-right
 <small>Rio de Janeiro, 30, Okt. 1897.</small>
 :::
@@ -363,6 +362,11 @@ Montevideo und in der Magalhãestrasse werden wir noch Halt machen, bevor wir
 gegen das jungfräuliche Eis südlich von Kap Horn unsern Angriff richten.
 
 :::
+
+:::: {.wrap-80 .align-center }
+![Feuerländische Knaben](Die_erste_Suedpolarnacht_012.jpg "Feuerländische Knaben"){#b012}
+::::
+
 
 
 #### **Anmerkungen** {.break-before .unnumbered}

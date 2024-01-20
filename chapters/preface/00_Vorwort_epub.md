@@ -355,11 +355,11 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Die Bucht von Rio mit dem Corcovado](ch005.xhtml#b005a)
 * [Rio de Janeiro](ch005.xhtml#b005b)
 * [Ansicht von Montevideo](ch005.xhtml#b009)
-* Feuerländische Knaben (farbig) 
-* Hütten der Indianermission
-* Ansicht von Punta Arenas
-* Die sturmreichen Felsen der westlichen Inseln von Feuerland
-* Die Ausläufer der Cordilleren, Beaglekanal
+* [Feuerländische Knaben](ch005.xhtml#b012) (farbig) 
+* [Hütten der Indianermission](ch006.xhtml#b016a)
+* [Ansicht von Punta Arenas](ch006.xhtml#b016b)
+* [Die sturmreichen Felsen der westlichen Inseln von Feuerland](ch006.xhtml#b020)
+* [Die Ausläufer der Cordilleren, Beaglekanal](ch006.xhtml#b024)
 * Onafrauen in ihrer vollständigen Kleidung, mit kleinen Kindern auf dem Rücken
 * Onamänner auf der Jagd
 * Onatypen. Häuptling Colchicoli. Eine von seinen Frauen

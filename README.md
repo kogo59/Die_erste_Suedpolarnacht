@@ -1,6 +1,6 @@
 # Die erste Südpolarnacht 1898-1899.
 
-<img align="right" height="150" src="https://github.com/kogo59/Zum_Kontinent_des_eisigen_Suedens/assets/13177792/f6bd37d9-3044-4f6a-a930-c3c873d84b32)">
+<img align="right" height="150" src="https://github.com/kogo59/Die_erste_Suedpolarnacht/blob/main/images/cover.jpg">
 
 This is a git repository of the source files for the book "Die erste Südpolarnacht 1898-1899.".
 
