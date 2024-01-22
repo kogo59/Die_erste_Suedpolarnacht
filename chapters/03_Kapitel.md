@@ -286,8 +286,12 @@ den schneebedeckten Südpolargegenden.“
 ![&nbsp;](Die_erste_Suedpolarnacht_042.jpg "Onas auf dem Marsche"){#b042}
 ::::
 
-
 :::
+
+:::: align-center
+****
+::::
+
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

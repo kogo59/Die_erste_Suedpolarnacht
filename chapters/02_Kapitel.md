@@ -591,6 +591,11 @@ Table: Onatypen.
 
 :::
 
+:::: align-center
+****
+::::
+
+
 #### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [*Dr. J. Sanarelli*: vergleiche [Giuseppe Sanarelli](https://en.wikipedia.org/wiki/Giuseppe_Sanarelli)]{.footnote}

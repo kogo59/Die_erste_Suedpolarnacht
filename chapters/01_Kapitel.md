@@ -367,7 +367,9 @@ gegen das jungfräuliche Eis südlich von Kap Horn unsern Angriff richten.
 ![Feuerländische Knaben](Die_erste_Suedpolarnacht_012.jpg "Feuerländische Knaben"){#b012}
 ::::
 
-
+:::: align-center
+****
+::::
 
 #### **Anmerkungen** {.break-before .unnumbered}
 

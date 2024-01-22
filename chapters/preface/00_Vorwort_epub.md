@@ -360,15 +360,15 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Ansicht von Punta Arenas](ch006.xhtml#b016b)
 * [Die sturmreichen Felsen der westlichen Inseln von Feuerland](ch006.xhtml#b020)
 * [Die Ausläufer der Cordilleren, Beaglekanal](ch006.xhtml#b024)
-* Onafrauen in ihrer vollständigen Kleidung, mit kleinen Kindern auf dem Rücken
-* Onamänner auf der Jagd
+* [Onafrauen in ihrer vollständigen Kleidung, mit kleinen Kindern auf dem Rücken](ch008.xhtml#b045a)
+* [Onamänner auf der Jagd](ch008.xhtml#b045b)
 * [Onatypen. Häuptling Colchicoli. Eine von seinen Frauen](ch006.xhtml#b032a)
 * [Ein Onahaus](ch007.xhtml#b036a)
 * [Onas auf dem Marsche](ch007.xhtml#b036b)
 * Ein Ona als Bogenschütze
 * Ein Onajäger, schussbereit
-* Ein männlicher Seelöwe
-* Seelöwen, Staateninsel
+* [Ein männlicher Seelöwe](ch008.xhtml#b048)
+* [Seelöwen, Staateninsel](ch008.xhtml#b048b)
 * Dr. Frederick A. Cook
 * Sonnenuntergang über der Brabantinsel
 * Mount William, Antwerpeninsel
