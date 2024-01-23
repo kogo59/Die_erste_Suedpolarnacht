@@ -1,7 +1,7 @@
 # <small>IV. Kapitel.</small><br />Die „Belgica“, ihre Ausrüstung, ihre Vorzüge und Mängel. {#vier .unnumbered}
 
 ::: align-right
-<small>Magalhãestrasse, 2. Dez. 1897.</small>
+<small>Magalhãesstrasse, 2. Dez. 1897.</small>
 :::
 
 ::: justified

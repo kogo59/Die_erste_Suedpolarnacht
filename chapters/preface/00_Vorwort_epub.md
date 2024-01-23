@@ -369,13 +369,13 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * Ein Onajäger, schussbereit
 * [Ein männlicher Seelöwe](ch008.xhtml#b048)
 * [Seelöwen, Staateninsel](ch008.xhtml#b048b)
-* Dr. Frederick A. Cook
-* Sonnenuntergang über der Brabantinsel
-* Mount William, Antwerpeninsel
-* Mount Allo, Lüttich-Insel
-* Weddells Seeleoparden, Belgicastrasse
-* Cormoran’s daheim
-* Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve. (Cap Lancaster im Hintergrund)
+* [Dr. Frederick A. Cook](ch009.xhtml#b053)
+* [Sonnenuntergang über der Brabantinsel](ch009.xhtml#b056)
+* [Mount William, Antwerpeninsel](ch009.xhtml#b059a)
+* [Mount Allo, Lüttich-Insel](ch009.xhtml#b059b)
+* [Weddells Seeleoparden, Belgicastrasse](ch009.xhtml#b065a)
+* [Cormoran’s daheim](ch009.xhtml#b068)
+* [Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve.](ch009.xhtml#b068b) (Cap Lancaster im Hintergrund)
 * Ein Pinguinfelsen, Coballescouinsel 
 
 
