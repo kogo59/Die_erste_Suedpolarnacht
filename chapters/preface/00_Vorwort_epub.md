@@ -376,7 +376,45 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Weddells Seeleoparden, Belgicastrasse](ch009.xhtml#b065a)
 * [Cormoran’s daheim](ch009.xhtml#b068)
 * [Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve.](ch009.xhtml#b068b) (Cap Lancaster im Hintergrund)
-* Ein Pinguinfelsen, Coballescouinsel 
+* [Ein Pinguinfelsen, Coballescouinsel](ch010.xhtml#b072a)
+* [Eine Pinguinfamilie auf dem Packeis](ch010.xhtml#b072b)
+* [Brialmont-Bucht. Cap Murray, Sonnenaufgang und Sonnenuntergang zugleich über der Ostküste der Belgicastrasse](ch010.xhtml#b076)
+* Ansicht im Osten vom Neumayerkanal. Ein Teil der Wiencke-Insel.
+* Sierre du Fief im Hintergrund 
+* Brooklyninsel
+* Lemairekanal. Wandelinsel
+* Cap Cloos
+* Die Besteigung eisbedeckter Berge
+* Ein Lager
+* Cap Eivind Astrup, Nordspitze der Wienckeinsel
+* Cap Renard, Dancoland
+* Geschichteter tafelförmiger Eisberg bei Cap Rasmussen, an dessen Leeseite die „Belgica“ während der Nacht des 12. Februar lag
+* Eisberg in der Belgicastrasse, mit einem grossen Tunnel
+* Eine der Wauwermansinseln
+* Sophiefelsen. Dancoland
+* Mitternacht im Hochsommer des antarktischen Festlandes (farbig)
+* Die „Belgica“, durch das Treibeis nach Süden vordringend
+* Eisberg bei Cap Tuxen
+* Pinguins auf einem verwitterten Eisberg, der einem Walfisch ähnlich ist
+* Ein tafelförmiger Eisberg, beobachtet an der Packeisgrenze im südlichen stillen Ozean. Ungefähr 200 Fuss hoch
+* Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes
+* Lecointe, Beobachtungen anstellend. Das nautische Observatorium
+* Dobrowolski. die Dicke des frischgefallenen Schnees messend
+* Schneeholen zur Ergänzung des Wasservorrats
+* Vornahme einer Lotung
+* Belustigung der Matrosen
+* Bug der „Belgica“ nach dem Zusammenstoss mit einem Eisberg
+* Die Hummocks einer Pressungskante
+* Wellenförmige Schneefläche
+* Ein Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins
+* Mondlichtphotographie der „Belgica“, 20. Mai 1898
+* Flechten
+* Mosseo Andreae a laxifolia H. und W.
+* M. van Rysselberghe am Condensator, der in einen Schmelzkessel für Schnee verwandelt ist
+* Racovitza am Mikroskop
+* Arctowski im Laboratorium
+* Acht aufeinanderfolgende Phasen einer Südlichterscheinung am 19. März 1898
+* Eine Seite mit Schuhen von der „Belgica“
 
 
 :::: {.wrap-70 .align-center .break-before}
