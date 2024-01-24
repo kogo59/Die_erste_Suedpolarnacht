@@ -245,10 +245,7 @@ Rhodes thörichter Weise vorgeschlagen wurde, ganz unnötig. Das Volk hier ist
 imstande, selbst für sich zu sorgen, und die Regierungen der Republiken Chile
 und Argentinien haben genug zu thun, um ihre eigenen Angelegenheiten zu ordnen.
 
-
 :::
-
-
 
 
 :::: align-center

@@ -379,9 +379,8 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Ein Pinguinfelsen, Coballescouinsel](ch010.xhtml#b072a)
 * [Eine Pinguinfamilie auf dem Packeis](ch010.xhtml#b072b)
 * [Brialmont-Bucht. Cap Murray, Sonnenaufgang und Sonnenuntergang zugleich über der Ostküste der Belgicastrasse](ch010.xhtml#b076)
-* Ansicht im Osten vom Neumayerkanal. Ein Teil der Wiencke-Insel.
-* Sierre du Fief im Hintergrund 
-* Brooklyninsel
+* [Ansicht im Osten vom Neumayerkanal. Ein Teil der Wiencke-Insel. Sierre du Fief im Hintergrund.](ch011.xhtml#b080a)
+* [Brooklyninsel](ch011.xhtml#b080b)
 * Lemairekanal. Wandelinsel
 * Cap Cloos
 * Die Besteigung eisbedeckter Berge
