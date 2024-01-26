@@ -283,7 +283,7 @@ unsere Heimat sein sollten und unser Weg nach dem von uns erwählten Arbeitsfeld
 den schneebedeckten Südpolargegenden.“ 
 
 :::: {.wrap-50 .align-center }
-![&nbsp;](Die_erste_Suedpolarnacht_042.jpg "Onas auf dem Marsche"){#b042}
+![&nbsp;](Die_erste_Suedpolarnacht_042.jpg "Die „Belgica“."){#b042}
 ::::
 
 :::

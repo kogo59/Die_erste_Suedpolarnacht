@@ -7,7 +7,7 @@
 ::: justified
 
 :::: {.wrap-20 .float-left}
-![Das Krähennest.](Die_erste_Suedpolarnacht_001.jpg ""){#b001}
+![Das Krähennest.](Die_erste_Suedpolarnacht_001.jpg "Das „Krähennest“"){#b001}
 ::::
 
 **A**lso wäre ich nun wirklich auf dem Wege nach dem Land meiner Träume, nach

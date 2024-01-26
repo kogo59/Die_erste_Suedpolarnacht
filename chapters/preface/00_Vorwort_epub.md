@@ -381,12 +381,12 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Brialmont-Bucht. Cap Murray, Sonnenaufgang und Sonnenuntergang zugleich über der Ostküste der Belgicastrasse](ch010.xhtml#b076)
 * [Ansicht im Osten vom Neumayerkanal. Ein Teil der Wiencke-Insel. Sierre du Fief im Hintergrund.](ch011.xhtml#b080a)
 * [Brooklyninsel](ch011.xhtml#b080b)
-* Lemairekanal. Wandelinsel
-* Cap Cloos
-* Die Besteigung eisbedeckter Berge
-* Ein Lager
-* Cap Eivind Astrup, Nordspitze der Wienckeinsel
-* Cap Renard, Dancoland
+* [Lemairekanal. Wandelinsel](ch012.xhtml#b088)
+* [Cap Cloos](ch012.xhtml#b088a)
+* [Die Besteigung eisbedeckter Berge](ch012.xhtml#b092a)
+* [Ein Lager](ch012.xhtml#b092b)
+* [Cap Eivind Astrup, Nordspitze der Wienckeinsel](ch012.xhtml#b096)
+* [Cap Renard, Dancoland](ch012.xhtml#b100)
 * Geschichteter tafelförmiger Eisberg bei Cap Rasmussen, an dessen Leeseite die „Belgica“ während der Nacht des 12. Februar lag
 * Eisberg in der Belgicastrasse, mit einem grossen Tunnel
 * Eine der Wauwermansinseln
@@ -414,6 +414,24 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * Arctowski im Laboratorium
 * Acht aufeinanderfolgende Phasen einer Südlichterscheinung am 19. März 1898
 * Eine Seite mit Schuhen von der „Belgica“
+
+
+## <small>Textillustrationen.</small>
+
+* [Das „Krähennest“](ch005.xhtml#b001)
+* [Die „Belgica“](ch007.xhtml#b042)
+* [Grössenunterschied zwischen einem Ona und einem Kaukasier](ch011.xhtml#b087)
+* Schneesturmvogel
+* Gestalten des Mondes 
+* Arctowski und Amundsen vor einem Spaziergang
+* Unser Schiff im Packeis, hilflos und hoffnungslos
+* Saennagras 
+*„Nansen“, unser Liebling
+* Verzerrtes Bild der aufgehenden Sonne
+* Schneebrille
+* Segelschlitten
+
+
 
 
 :::: {.wrap-70 .align-center .break-before}
