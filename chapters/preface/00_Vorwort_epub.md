@@ -387,11 +387,11 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Ein Lager](ch012.xhtml#b092b)
 * [Cap Eivind Astrup, Nordspitze der Wienckeinsel](ch012.xhtml#b096)
 * [Cap Renard, Dancoland](ch012.xhtml#b100)
-* Geschichteter tafelförmiger Eisberg bei Cap Rasmussen, an dessen Leeseite die „Belgica“ während der Nacht des 12. Februar lag
-* Eisberg in der Belgicastrasse, mit einem grossen Tunnel
-* Eine der Wauwermansinseln
-* Sophiefelsen. Dancoland
-* Mitternacht im Hochsommer des antarktischen Festlandes (farbig)
+* [Geschichteter tafelförmiger Eisberg bei Cap Rasmussen, an dessen Leeseite die „Belgica“ während der Nacht des 12. Februar lag](ch013.xhtml#b104a)
+* [Eisberg in der Belgicastrasse, mit einem grossen Tunnel](ch013.xhtml#b104b)
+* [Eine der Wauwermansinseln](ch013.xhtml#b108)
+* [Sophiefelsen, Dancoland](ch013.xhtml#b108a)
+* [Mitternacht im Hochsommer des antarktischen Festlandes (farbig)](ch013.xhtml#b112)
 * Die „Belgica“, durch das Treibeis nach Süden vordringend
 * Eisberg bei Cap Tuxen
 * Pinguins auf einem verwitterten Eisberg, der einem Walfisch ähnlich ist
