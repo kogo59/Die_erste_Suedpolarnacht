@@ -396,7 +396,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Eisberg bei Cap Tuxen](ch014.xhtml#b120b)
 * [Pinguins auf einem verwitterten Eisberg, der einem Walfisch ähnlich ist](ch014.xhtml#b124)
 * [Ein tafelförmiger Eisberg, beobachtet an der Packeisgrenze im südlichen stillen Ozean. Ungefähr 200 Fuss hoch.](ch014.xhtml#b128)
-* Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes
+* [Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes](ch015.xhtml#b136)
 * Lecointe, Beobachtungen anstellend. Das nautische Observatorium
 * Dobrowolski. die Dicke des frischgefallenen Schnees messend
 * Schneeholen zur Ergänzung des Wasservorrats
