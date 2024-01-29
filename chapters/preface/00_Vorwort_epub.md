@@ -392,10 +392,10 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Eine der Wauwermansinseln](ch013.xhtml#b108)
 * [Sophiefelsen, Dancoland](ch013.xhtml#b108a)
 * [Mitternacht im Hochsommer des antarktischen Festlandes (farbig)](ch013.xhtml#b112)
-* Die „Belgica“, durch das Treibeis nach Süden vordringend
-* Eisberg bei Cap Tuxen
-* Pinguins auf einem verwitterten Eisberg, der einem Walfisch ähnlich ist
-* Ein tafelförmiger Eisberg, beobachtet an der Packeisgrenze im südlichen stillen Ozean. Ungefähr 200 Fuss hoch
+* [Die „Belgica“, durch das Treibeis nach Süden vordringend](ch014.xhtml#b120a)
+* [Eisberg bei Cap Tuxen](ch014.xhtml#b120b)
+* [Pinguins auf einem verwitterten Eisberg, der einem Walfisch ähnlich ist](ch014.xhtml#b124)
+* [Ein tafelförmiger Eisberg, beobachtet an der Packeisgrenze im südlichen stillen Ozean. Ungefähr 200 Fuss hoch.](ch014.xhtml#b128)
 * Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes
 * Lecointe, Beobachtungen anstellend. Das nautische Observatorium
 * Dobrowolski. die Dicke des frischgefallenen Schnees messend
