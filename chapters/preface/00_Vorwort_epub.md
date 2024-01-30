@@ -365,8 +365,8 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Onatypen. Häuptling Colchicoli. Eine von seinen Frauen](ch006.xhtml#b032a)
 * [Ein Onahaus](ch007.xhtml#b036a)
 * [Onas auf dem Marsche](ch007.xhtml#b036b)
-* Ein Ona als Bogenschütze
-* Ein Onajäger, schussbereit
+* [Ein Ona als Bogenschütze](ch011.xhtml#b083b)
+* [Ein Onajäger, schussbereit](ch012.xhtml#b091)
 * [Ein männlicher Seelöwe](ch008.xhtml#b048)
 * [Seelöwen, Staateninsel](ch008.xhtml#b048b)
 * [Dr. Frederick A. Cook](ch009.xhtml#b053)
@@ -397,10 +397,10 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Pinguins auf einem verwitterten Eisberg, der einem Walfisch ähnlich ist](ch014.xhtml#b124)
 * [Ein tafelförmiger Eisberg, beobachtet an der Packeisgrenze im südlichen stillen Ozean. Ungefähr 200 Fuss hoch.](ch014.xhtml#b128)
 * [Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes](ch015.xhtml#b136)
-* Lecointe, Beobachtungen anstellend. Das nautische Observatorium
-* Dobrowolski. die Dicke des frischgefallenen Schnees messend
-* Schneeholen zur Ergänzung des Wasservorrats
-* Vornahme einer Lotung
+* [Lecointe, Beobachtungen anstellend. Das nautische Observatorium](ch016.xhtml#b140a)
+* [Dobrowolski. die Dicke des frischgefallenen Schnees messend](ch016.xhtml#b140b)
+* [Schneeholen zur Ergänzung des Wasservorrats](ch016.xhtml#b144a)
+* [Vornahme einer Lotung](ch016.xhtml#b144b)
 * Belustigung der Matrosen
 * Bug der „Belgica“ nach dem Zusammenstoss mit einem Eisberg
 * Die Hummocks einer Pressungskante
@@ -421,7 +421,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Das „Krähennest“](ch005.xhtml#b001)
 * [Die „Belgica“](ch007.xhtml#b042)
 * [Grössenunterschied zwischen einem Ona und einem Kaukasier](ch011.xhtml#b087)
-* Schneesturmvogel
+* [Schneesturmvogel](ch016.xhtml#b139)
 * Gestalten des Mondes 
 * Arctowski und Amundsen vor einem Spaziergang
 * Unser Schiff im Packeis, hilflos und hoffnungslos

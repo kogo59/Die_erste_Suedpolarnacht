@@ -127,6 +127,10 @@ der Stadt mit vernachlässigtem Äussern, wie Maurer; und hier zu Ushuaia — nu
 derjenige, welcher sein Haar kämmte, gehörte nicht mehr zu uns, er wurde nicht
 mehr als Forscher betrachtet.
 
+:::: {.wrap-60 .align-center }
+![Ein Ona als Bogenschütze.](Die_erste_Suedpolarnacht_083.jpg "Ein Ona als Bogenschütze"){#b083}
+::::
+
 Ushuaia ist eine kleine Stadt in den Vorbergen der Kordilleren mit etwa 25
 Häusern, die aus Wellblech gefertigt sind. Der Hintergrund der Stadt ist wild
 und malerisch. Zwei Bergreihen laufen nach Osten, paralell zu einander, entlang

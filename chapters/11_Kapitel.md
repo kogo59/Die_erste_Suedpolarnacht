@@ -200,7 +200,7 @@ uns wegen der felsigen und unebenen Beschaffenheit des Meeresgrundes wenig
 Sicherheit. Wir mussten vorwärts dampfen und unser Glück versuchen.
 
 :::: {.wrap-100 .align-center }
-![Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes.](Die_erste_Suedpolarnacht_136.jpg "EAnsicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes."){#b136}
+![Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes.](Die_erste_Suedpolarnacht_136.jpg "Ansicht des Packeises aus der Vogelperspektive in der Nähe des äusseren Randes."){#b136}
 ::::
 
 Es waren das schreckliche Augenblicke. Wir fürchteten, jeden Augenblick einen

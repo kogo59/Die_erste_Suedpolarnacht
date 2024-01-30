@@ -161,7 +161,11 @@ dastehende Entwicklung verdanken sie den örtlichen Verhältnissen und speziell
 der Jagd, welche fortwährend lange Märsche notwendig macht. Die Onamänner sind
 unzweifelhaft die besten Dauerläufer des amerikanischen Kontinents.
 
-Das geistige Niveau des Ona entspricht keineswegsseiner glänzenden körperlichen
+:::: {.wrap-60 .align-center }
+![Ein Onajäger, schussbereit.](Die_erste_Suedpolarnacht_091.jpg "Ein Onajäger, schussbereit."){#b091}
+::::
+
+Das geistige Niveau des Ona entspricht keineswegs seiner glänzenden körperlichen
 Entwicklung. Er versteht vortrefflich die etlichen Kunstgriffe, die man zur Jagd
 braucht, und welche ihm den Lebensunterhalt verschaffen. Das Wild konnte er
 früher leicht erjagen; seine Bedürfnisse waren gering, und dieser Umstand
