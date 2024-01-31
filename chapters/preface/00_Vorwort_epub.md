@@ -401,14 +401,14 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Dobrowolski. die Dicke des frischgefallenen Schnees messend](ch016.xhtml#b140b)
 * [Schneeholen zur Ergänzung des Wasservorrats](ch016.xhtml#b144a)
 * [Vornahme einer Lotung](ch016.xhtml#b144b)
-* Belustigung der Matrosen
-* Bug der „Belgica“ nach dem Zusammenstoss mit einem Eisberg
-* Die Hummocks einer Pressungskante
-* Wellenförmige Schneefläche
-* Ein Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins
-* Mondlichtphotographie der „Belgica“, 20. Mai 1898
-* Flechten
-* Mosseo Andreae a laxifolia H. und W.
+* [Belustigung der Matrosen](ch017.xhtml#b152a)
+* [Bug der „Belgica“ nach dem Zusammenstoss mit einem Eisberg](ch017.xhtml#b152b)
+* [Die Hummocks einer Pressungskante](ch017.xhtml#b156a)
+* [Wellenförmige Schneefläche](ch017.xhtml#b156b)
+* [Ein Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins.](ch017.xhtml#b160a)
+* [Mondlichtphotographie der „Belgica“, 20. Mai 1898](ch017.xhtml#b160b)
+* [Flechten](ch017.xhtml#b164a)
+* [Mosseo Andreae a laxifolia H. und W.](ch017.xhtml#b164c)
 * M. van Rysselberghe am Condensator, der in einen Schmelzkessel für Schnee verwandelt ist
 * Racovitza am Mikroskop
 * Arctowski im Laboratorium
