@@ -416,10 +416,10 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Eine Seite mit Schuhen von der „Belgica“](ch018.xhtml#b180a)
 * [Handschuhe von der „Belgica“](ch018.xhtml#b184a)
 * [Proben von Stopfarbeit](ch018.xhtml#b184b)
-* Luftloch eines Walfisches
-* Luftloch einer Robbe
-* Eisberg am Rande des Packeises, etwa 120 Fuss hoch
-* Pinguinspuren
+* [Luftloch eines Walfisches](ch019.xhtml#b192a)
+* [Luftloch einer Robbe](ch019.xhtml#b192b)
+* [Eisberg am Rande des Packeises, etwa 120 Fuss hoch](ch019.xhtml#b196a)
+* [Pinguinspuren](ch019.xhtml#b196b)
 * Krabbenfresser
 * Rossrobbe
 * Der echte Seeleopard
