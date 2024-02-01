@@ -414,6 +414,45 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Arctowski im Laboratorium](ch018.xhtml#b172b)
 * [Acht aufeinanderfolgende Phasen einer Südlichterscheinung am 19. März 1898](ch018.xhtml#b176)
 * [Eine Seite mit Schuhen von der „Belgica“](ch018.xhtml#b180a)
+* [Handschuhe von der „Belgica“](ch018.xhtml#b184a)
+* [Proben von Stopfarbeit](ch018.xhtml#b184b)
+* Luftloch eines Walfisches
+* Luftloch einer Robbe
+* Eisberg am Rande des Packeises, etwa 120 Fuss hoch
+* Pinguinspuren
+* Krabbenfresser
+* Rossrobbe
+* Der echte Seeleopard
+* Weddells Seeleoparden auf dem Packeis
+* Die Rossrobbe mit aufgeblasener Luftröhre 
+* Der eigentliche Seeleopard. Krabbenfresser
+* Eine alte Rinne
+* Eine neue Eisspalte 
+* Beobachtung von Pinguins
+* Der kleine Packeispinguin
+* Der Königspinguin
+* Kopf und Fuss eines Königspinguins
+* Kopf und Fuss des kleinen Packeispinguins
+* Riesensturmvogel. Riesenraubmnöve
+* Amundsen nach einem Skilauf 
+* Die „Belgica“ im September. Das neue Zelt und die Ausrüstung für Touren auf dem Packeis 
+* Dämmerung im antarktischen Eis (farbig)
+* Ein Jäger nimmt ein Sonnenbad
+* Der letzte in den Schlafsack für drei Mann
+* H. Arctowski und G, Lecointe. Die Unterhaltung beim Nachmittagsthee
+* Über Hummocks und Eisspalten. Rand des Eisfeldes der „Belgica“ im Oktober
+* Grenze des antarktischen Packeises
+* Die Mitternachtsonne über dem Packeis
+* Eisblumen
+* Die Eisschollen, aus denen das Polareis entsteht
+* Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend . . .
+* Das Weihnachtsmahl im Hochsommer
+* Portraits von Cook, Amundsen und Racovitza vor der Abreise und nach der Rückkehr
+* Ein alter, verwitterter Hummock
+* Der sandähnliche Treibschnee
+* Ein tafelförmiger Eisberg, der grösste Eisberg innerhalb des Horizonts während der Trift der „Belgica“  
+* Die Belgica im Eis
+* Alte Hummocks
 
 
 ## <small>Textillustrationen.</small>

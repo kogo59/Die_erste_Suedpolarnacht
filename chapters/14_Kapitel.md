@@ -2,7 +2,6 @@
 
 ::: justified
 
-
 &nbsp;25. Februar. Der erwartete Sturm ist nicht eingetreten, aber das Eis ist
 von selbst ein wenig auseinander gegangen und ermöglicht uns, etwas nach Westen
 vorzudringen. Wir fahren durch loses Packeis mit vielen neugebildeten Schollen,
