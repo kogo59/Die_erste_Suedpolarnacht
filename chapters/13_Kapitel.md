@@ -306,7 +306,7 @@ Dicke und schiebt Eisschollen von 200 Fuss Durchmesser auf die Seite. Wie ein
 lebendes Wesen durchfurcht sie die eisbedeckte See.
 
 :::: {.wrap-70 .align-center  }
-![Ein Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins.](Die_erste_Suedpolarnacht_160a.jpg "DEin Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins."){#b160a}
+![Ein Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins.](Die_erste_Suedpolarnacht_160a.jpg "Ein Wassertümpel. Der Spielplatz der Walfische, Robben und Pinguins."){#b160a}
 ::::
 
 :::: {.wrap-70 .align-center  }

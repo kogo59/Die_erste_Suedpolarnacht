@@ -409,11 +409,11 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Mondlichtphotographie der „Belgica“, 20. Mai 1898](ch017.xhtml#b160b)
 * [Flechten](ch017.xhtml#b164a)
 * [Mosseo Andreae a laxifolia H. und W.](ch017.xhtml#b164c)
-* M. van Rysselberghe am Condensator, der in einen Schmelzkessel für Schnee verwandelt ist
-* Racovitza am Mikroskop
-* Arctowski im Laboratorium
-* Acht aufeinanderfolgende Phasen einer Südlichterscheinung am 19. März 1898
-* Eine Seite mit Schuhen von der „Belgica“
+* [M. van Rysselberghe am Condensator, der in einen Schmelzkessel für Schnee verwandelt ist](ch018.xhtml#b168)
+* [Racovitza am Mikroskop](ch018.xhtml#b172a)
+* [Arctowski im Laboratorium](ch018.xhtml#b172b)
+* [Acht aufeinanderfolgende Phasen einer Südlichterscheinung am 19. März 1898](ch018.xhtml#b176)
+* [Eine Seite mit Schuhen von der „Belgica“](ch018.xhtml#b180a)
 
 
 ## <small>Textillustrationen.</small>
@@ -422,7 +422,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Die „Belgica“](ch007.xhtml#b042)
 * [Grössenunterschied zwischen einem Ona und einem Kaukasier](ch011.xhtml#b087)
 * [Schneesturmvogel](ch016.xhtml#b139)
-* Gestalten des Mondes 
+* [Gestalten des Mondes](ch018.xhtml#b178)
 * Arctowski und Amundsen vor einem Spaziergang
 * Unser Schiff im Packeis, hilflos und hoffnungslos
 * Saennagras 
