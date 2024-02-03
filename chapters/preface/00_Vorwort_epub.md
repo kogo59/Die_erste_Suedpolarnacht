@@ -414,17 +414,17 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Arctowski im Laboratorium](ch018.xhtml#b172b)
 * [Acht aufeinanderfolgende Phasen einer Südlichterscheinung am 19. März 1898](ch018.xhtml#b176)
 * [Eine Seite mit Schuhen von der „Belgica“](ch018.xhtml#b180a)
-* [Handschuhe von der „Belgica“](ch018.xhtml#b184a)
-* [Proben von Stopfarbeit](ch018.xhtml#b184b)
-* [Luftloch eines Walfisches](ch019.xhtml#b192a)
-* [Luftloch einer Robbe](ch019.xhtml#b192b)
-* [Eisberg am Rande des Packeises, etwa 120 Fuss hoch](ch019.xhtml#b196a)
-* [Pinguinspuren](ch019.xhtml#b196b)
-* Krabbenfresser
-* Rossrobbe
-* Der echte Seeleopard
-* Weddells Seeleoparden auf dem Packeis
-* Die Rossrobbe mit aufgeblasener Luftröhre 
+* [Handschuhe von der „Belgica“](ch019.xhtml#b184a)
+* [Proben von Stopfarbeit](ch019.xhtml#b184b)
+* [Luftloch eines Walfisches](ch020.xhtml#b192a)
+* [Luftloch einer Robbe](ch020.xhtml#b192b)
+* [Eisberg am Rande des Packeises, etwa 120 Fuss hoch](ch020.xhtml#b196a)
+* [Pinguinspuren](ch020.xhtml#b196b)
+* [Krabbenfresser](ch021.xhtml#b200a)
+* [Rossrobbe](ch021.xhtml#b200b)
+* [Der echte Seeleopard](ch021.xhtml#b200c)
+* [Weddells Seeleoparden auf dem Packeis](ch021.xhtml#b204a)
+* [Die Rossrobbe mit aufgeblasener Luftröhre](ch021.xhtml#b208)
 * Der eigentliche Seeleopard. Krabbenfresser
 * Eine alte Rinne
 * Eine neue Eisspalte 
