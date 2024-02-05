@@ -19,7 +19,7 @@ der Nähe des Schiffes bilden ein zusammenhängendes Eisfeld, Alles ist ruhig un
 bewegungslos, und darüber hingebreitet liegt das weisse Schweigen des Todes. Die
 Mitglieder des wissenschaftlichen Stabes benützen die Situation zu kurzen
 Exkursionen nach den benachbarten Eisbergen und den interessantesten Stellen der
-Umgebung, zum Studium der Tier welt und des Eismeeres, auf dem wir herumtreiben
+Umgebung, zum Studium der Tierwelt und des Eismeeres, auf dem wir herumtreiben
 müssen bis das Tauwetter des kommenden Jahres uns frei machen wird. Der Schnee
 ist wie gewöhnlich nach jedem Sturm mit einer festen Kruste bedeckt; aber wir
 finden es trotzdem gefährlich, auch nur kurze Entfernungen ohne Schneeschuhe

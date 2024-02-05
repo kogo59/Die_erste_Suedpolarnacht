@@ -425,9 +425,9 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Der echte Seeleopard](ch021.xhtml#b200c)
 * [Weddells Seeleoparden auf dem Packeis](ch021.xhtml#b204a)
 * [Die Rossrobbe mit aufgeblasener Luftröhre](ch021.xhtml#b208)
-* Der eigentliche Seeleopard. Krabbenfresser
-* Eine alte Rinne
-* Eine neue Eisspalte 
+* [Der eigentliche Seeleopard. Krabbenfresser.](ch022.xhtml#b212a)
+* [Eine alte Rinne](ch022.xhtml#b216a)
+* [Eine neue Eisspalte](ch022.xhtml#b216b) 
 * Beobachtung von Pinguins
 * Der kleine Packeispinguin
 * Der Königspinguin
