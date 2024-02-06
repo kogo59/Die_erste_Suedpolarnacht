@@ -428,11 +428,11 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Der eigentliche Seeleopard. Krabbenfresser.](ch022.xhtml#b212a)
 * [Eine alte Rinne](ch022.xhtml#b216a)
 * [Eine neue Eisspalte](ch022.xhtml#b216b) 
-* Beobachtung von Pinguins
-* Der kleine Packeispinguin
-* Der Königspinguin
-* Kopf und Fuss eines Königspinguins
-* Kopf und Fuss des kleinen Packeispinguins
+* [Beobachtung von Pinguins](ch023.xhtml#b224a) 
+* [Der kleine Packeispinguin](ch023.xhtml#b228a) 
+* [Der Königspinguin](ch023.xhtml#b228b) 
+* [Kopf und Fuss eines Königspinguins](ch023.xhtml#b232a) 
+* [Kopf und Fuss des kleinen Packeispinguins](ch023.xhtml#b232b) 
 * Riesensturmvogel. Riesenraubmnöve
 * Amundsen nach einem Skilauf 
 * Die „Belgica“ im September. Das neue Zelt und die Ausrüstung für Touren auf dem Packeis 
@@ -462,7 +462,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Grössenunterschied zwischen einem Ona und einem Kaukasier](ch011.xhtml#b087)
 * [Schneesturmvogel](ch016.xhtml#b139)
 * [Gestalten des Mondes](ch018.xhtml#b178)
-* Arctowski und Amundsen vor einem Spaziergang
+* [Arctowski und Amundsen vor einem Spaziergang](ch023.xhtml#b233) 
 * Unser Schiff im Packeis, hilflos und hoffnungslos
 * Saennagras 
 *„Nansen“, unser Liebling
