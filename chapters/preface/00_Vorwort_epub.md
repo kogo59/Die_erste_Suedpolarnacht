@@ -433,8 +433,8 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Der Königspinguin](ch023.xhtml#b228b) 
 * [Kopf und Fuss eines Königspinguins](ch023.xhtml#b232a) 
 * [Kopf und Fuss des kleinen Packeispinguins](ch023.xhtml#b232b) 
-* Riesensturmvogel. Riesenraubmnöve
-* Amundsen nach einem Skilauf 
+* [Riesensturmvogel. Riesenraubmöve](ch024.xhtml#b236a)
+* [Amundsen nach einem Skilauf](ch024.xhtml#b240) 
 * Die „Belgica“ im September. Das neue Zelt und die Ausrüstung für Touren auf dem Packeis 
 * Dämmerung im antarktischen Eis (farbig)
 * Ein Jäger nimmt ein Sonnenbad

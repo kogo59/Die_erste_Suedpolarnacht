@@ -119,7 +119,7 @@ entschieden mehr gefroren.
 | ![](Die_erste_Suedpolarnacht_224a.jpg ""){#b224a width=70%}|![](Die_erste_Suedpolarnacht_224b.jpg ""){#b224b width=70%}|
 | ![](Die_erste_Suedpolarnacht_224c.jpg ""){#b224c width=70%}|![](Die_erste_Suedpolarnacht_224d.jpg ""){#b224d width=70%}|
 | ![](Die_erste_Suedpolarnacht_224e.jpg ""){#b224e width=70%}|![](Die_erste_Suedpolarnacht_224f.jpg ""){#b224f width=70%}|
-| ![](Die_erste_Suedpolarnacht_224g.jpg ""){#b224e width=70%}|![](Die_erste_Suedpolarnacht_224h.jpg ""){#b224f width=70%}|
+| ![](Die_erste_Suedpolarnacht_224g.jpg ""){#b224g width=70%}|![](Die_erste_Suedpolarnacht_224h.jpg ""){#b224h width=70%}|
 Table: Beobachtung von Pinguins.
 ::::
 
@@ -353,7 +353,6 @@ beschützen und an das Ziel zu führen.
 :::: {.wrap-50 .align-center  }
 ![<small>Arctowski und Amundsen vor einem Spaziergang.</small>](Die_erste_Suedpolarnacht_233.jpg "Arctowski und Amundsen vor einem Spaziergang."){#b233}
 ::::
-
 
 :::
 
