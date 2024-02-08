@@ -365,7 +365,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Onatypen. Häuptling Colchicoli. Eine von seinen Frauen](ch006.xhtml#b032a)
 * [Ein Onahaus](ch007.xhtml#b036a)
 * [Onas auf dem Marsche](ch007.xhtml#b036b)
-* [Ein Ona als Bogenschütze](ch011.xhtml#b083b)
+* [Ein Ona als Bogenschütze](ch025.xhtml#b083)
 * [Ein Onajäger, schussbereit](ch012.xhtml#b091)
 * [Ein männlicher Seelöwe](ch008.xhtml#b048)
 * [Seelöwen, Staateninsel](ch008.xhtml#b048b)
@@ -435,17 +435,17 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Kopf und Fuss des kleinen Packeispinguins](ch023.xhtml#b232b) 
 * [Riesensturmvogel. Riesenraubmöve](ch024.xhtml#b236a)
 * [Amundsen nach einem Skilauf](ch024.xhtml#b240) 
-* Die „Belgica“ im September. Das neue Zelt und die Ausrüstung für Touren auf dem Packeis 
-* Dämmerung im antarktischen Eis (farbig)
-* Ein Jäger nimmt ein Sonnenbad
-* Der letzte in den Schlafsack für drei Mann
+* [Die „Belgica“ im September. Das neue Zelt und die Ausrüstung für Touren auf dem Packeis.](ch025.xhtml#b248) 
+* [Dämmerung im antarktischen Eis (farbig)](ch025.xhtml#b252) 
+* [Ein Jäger nimmt ein Sonnenbad](ch025.xhtml#b256a) 
+* [Der letzte in den Schlafsack für drei Mann](ch025.xhtml#b256b) 
 * H. Arctowski und G, Lecointe. Die Unterhaltung beim Nachmittagsthee
 * Über Hummocks und Eisspalten. Rand des Eisfeldes der „Belgica“ im Oktober
 * Grenze des antarktischen Packeises
 * Die Mitternachtsonne über dem Packeis
 * Eisblumen
 * Die Eisschollen, aus denen das Polareis entsteht
-* Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend . . .
+* Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend
 * Das Weihnachtsmahl im Hochsommer
 * Portraits von Cook, Amundsen und Racovitza vor der Abreise und nach der Rückkehr
 * Ein alter, verwitterter Hummock
