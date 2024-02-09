@@ -439,8 +439,8 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Dämmerung im antarktischen Eis (farbig)](ch025.xhtml#b252) 
 * [Ein Jäger nimmt ein Sonnenbad](ch025.xhtml#b256a) 
 * [Der letzte in den Schlafsack für drei Mann](ch025.xhtml#b256b) 
-* H. Arctowski und G, Lecointe. Die Unterhaltung beim Nachmittagsthee
-* Über Hummocks und Eisspalten. Rand des Eisfeldes der „Belgica“ im Oktober
+* [H. Arctowski und G. Lecointe. Die Unterhaltung beim Nachmittagsthee](ch026.xhtml#b264) 
+* [Über Hummocks und Eisspalten. Rand des Eisfeldes der „Belgica“ im Oktober.](ch026.xhtml#b268) 
 * Grenze des antarktischen Packeises
 * Die Mitternachtsonne über dem Packeis
 * Eisblumen
@@ -463,9 +463,9 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Schneesturmvogel](ch016.xhtml#b139)
 * [Gestalten des Mondes](ch018.xhtml#b178)
 * [Arctowski und Amundsen vor einem Spaziergang](ch023.xhtml#b233) 
-* Unser Schiff im Packeis, hilflos und hoffnungslos
-* Saennagras 
-*„Nansen“, unser Liebling
+* [Unser Schiff im Packeis, hilflos und hoffnungslos](ch026.xhtml#b260) 
+* [Saennagras](ch026.xhtml#b270)  
+* „Nansen“, unser Liebling
 * Verzerrtes Bild der aufgehenden Sonne
 * Schneebrille
 * Segelschlitten

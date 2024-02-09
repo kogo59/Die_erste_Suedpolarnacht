@@ -362,9 +362,6 @@ Interesse wieder wachgerufen hätte. Wir haben jetzt wenig Südlichter und keine
 Mondhöfe; alles, was sich in und auf dieser zu Eis erstarrten See befindet,
 schläft den langen Schlaf der kalten Winternacht.
 
-
-
-
 :::
 
 
