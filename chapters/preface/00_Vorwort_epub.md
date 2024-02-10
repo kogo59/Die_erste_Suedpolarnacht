@@ -441,8 +441,8 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Der letzte in den Schlafsack für drei Mann](ch025.xhtml#b256b) 
 * [H. Arctowski und G. Lecointe. Die Unterhaltung beim Nachmittagsthee](ch026.xhtml#b264) 
 * [Über Hummocks und Eisspalten. Rand des Eisfeldes der „Belgica“ im Oktober.](ch026.xhtml#b268) 
-* Grenze des antarktischen Packeises
-* Die Mitternachtsonne über dem Packeis
+* [Grenze des antarktischen Packeises](ch027.xhtml#b272) 
+* [Die Mitternachtsonne über dem Packeis](ch027.xhtml#b280a) 
 * Eisblumen
 * Die Eisschollen, aus denen das Polareis entsteht
 * Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend
