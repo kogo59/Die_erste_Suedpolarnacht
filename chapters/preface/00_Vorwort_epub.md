@@ -443,10 +443,10 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Über Hummocks und Eisspalten. Rand des Eisfeldes der „Belgica“ im Oktober.](ch026.xhtml#b268) 
 * [Grenze des antarktischen Packeises](ch027.xhtml#b272) 
 * [Die Mitternachtsonne über dem Packeis](ch027.xhtml#b280a) 
-* Eisblumen
-* Die Eisschollen, aus denen das Polareis entsteht
-* Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend
-* Das Weihnachtsmahl im Hochsommer
+* [Eisblumen](ch028.xhtml#b284a) 
+* [Die Eisschollen, aus denen das Polareis entstehen](ch028.xhtml#b284b) 
+* [Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend](ch028.xhtml#b288) 
+* [Das Weihnachtsmahl im Hochsommer](ch028.xhtml#b292) 
 * Portraits von Cook, Amundsen und Racovitza vor der Abreise und nach der Rückkehr
 * Ein alter, verwitterter Hummock
 * Der sandähnliche Treibschnee
@@ -465,7 +465,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Arctowski und Amundsen vor einem Spaziergang](ch023.xhtml#b233) 
 * [Unser Schiff im Packeis, hilflos und hoffnungslos](ch026.xhtml#b260) 
 * [Saennagras](ch026.xhtml#b270)  
-* „Nansen“, unser Liebling
+* [„Nansen“, unser Liebling](ch028.xhtml#b286) 
 * Verzerrtes Bild der aufgehenden Sonne
 * Schneebrille
 * Segelschlitten
