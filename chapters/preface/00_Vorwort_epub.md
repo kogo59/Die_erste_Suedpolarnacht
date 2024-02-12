@@ -447,9 +447,9 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Die Eisschollen, aus denen das Polareis entstehen](ch028.xhtml#b284b) 
 * [Ein Eisberg, festgehalten durch das Packeis, die sogenannte „Eisbarriere“ bildend](ch028.xhtml#b288) 
 * [Das Weihnachtsmahl im Hochsommer](ch028.xhtml#b292) 
-* Portraits von Cook, Amundsen und Racovitza vor der Abreise und nach der Rückkehr
-* Ein alter, verwitterter Hummock
-* Der sandähnliche Treibschnee
+* [Portraits von Cook, Amundsen und Racovitza vor der Abreise und nach der Rückkehr](ch029.xhtml#b301a)
+* [Ein alter, verwitterter Hummock](ch029.xhtml#b304a)
+* [Der sandähnliche Treibschnee](ch029.xhtml#b304b)
 * Ein tafelförmiger Eisberg, der grösste Eisberg innerhalb des Horizonts während der Trift der „Belgica“  
 * Die Belgica im Eis
 * Alte Hummocks
@@ -466,7 +466,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Unser Schiff im Packeis, hilflos und hoffnungslos](ch026.xhtml#b260) 
 * [Saennagras](ch026.xhtml#b270)  
 * [„Nansen“, unser Liebling](ch028.xhtml#b286) 
-* Verzerrtes Bild der aufgehenden Sonne
+* [Verzerrtes Bild der aufgehenden Sonne](ch029.xhtml#b299)
 * Schneebrille
 * Segelschlitten
 

@@ -404,7 +404,6 @@ der Kajüte bis zum Vorderdeck, mit hellem Jubel.
 :::
 
 
-
 :::: align-center
 ****
 ::::
