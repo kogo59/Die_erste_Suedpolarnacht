@@ -450,8 +450,8 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Portraits von Cook, Amundsen und Racovitza vor der Abreise und nach der Rückkehr](ch029.xhtml#b301a)
 * [Ein alter, verwitterter Hummock](ch029.xhtml#b304a)
 * [Der sandähnliche Treibschnee](ch029.xhtml#b304b)
-* Ein tafelförmiger Eisberg, der grösste Eisberg innerhalb des Horizonts während der Trift der „Belgica“  
-* Die Belgica im Eis
+* [Ein tafelförmiger Eisberg, der grösste Eisberg innerhalb des Horizonts während der Trift der „Belgica“.](ch030.xhtml#b312)
+* [Die Belgica im Eis](ch030.xhtml#b316a)
 * Alte Hummocks
 
 
