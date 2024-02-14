@@ -452,7 +452,18 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Der sandähnliche Treibschnee](ch029.xhtml#b304b)
 * [Ein tafelförmiger Eisberg, der grösste Eisberg innerhalb des Horizonts während der Trift der „Belgica“.](ch030.xhtml#b312)
 * [Die Belgica im Eis](ch030.xhtml#b316a)
-* Alte Hummocks
+* [Alte Hummocks](ch030.xhtml#b320a)
+* [Eine Tonitexplosion zum Zweck der Befreiung der „Belgica“](ch030.xhtml#b320b)
+* [Entfernung der oberen Schicht vor dem Auseinandersägen der harten unteren Schicht](ch031.xhtml#b328a)
+* [Ein Kanal zur Befreiung der „Belgica“ aus ihrem Gefängnis](ch031.xhtml#b328b) 
+* Schwimmende Eisberge
+* Aussicht von dem Plateau eines Eisberges aus
+* Seltsame verwitterte Eisberge, 300 Fuss hoch
+* Seesterne und Seeigel vom Grund des antarktischen Meeres
+* Eine neue Garneele der Gattung Euphausia, entdeckt durch Racovitza
+* Eine Gruppe Pinguins, die Besucher der „Belgica“
+* Die Matrosen nach Ablauf der langen Nacht
+* Cap Renard (Danco-Land)
 
 
 ## <small>Textillustrationen.</small>
@@ -467,7 +478,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Saennagras](ch026.xhtml#b270)  
 * [„Nansen“, unser Liebling](ch028.xhtml#b286) 
 * [Verzerrtes Bild der aufgehenden Sonne](ch029.xhtml#b299)
-* Schneebrille
+* [Schneebrille](ch031.xhtml#b321)
 * Segelschlitten
 
 

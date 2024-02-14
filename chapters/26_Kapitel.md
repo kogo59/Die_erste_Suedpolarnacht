@@ -375,6 +375,14 @@ das Jagdmesser an an der Seite, von Spalte zu Spalte, emsig nach Pinguins und
 Robben spähend. In der Regel haben wir Glück und ist unser Tisch stets reichlich
 mit frischem Braten versehen.
 
+:::: {.wrap-70 .align-center  }
+![Alte Hummocks.](Die_erste_Suedpolarnacht_320a.jpg "Alte Hummocks."){#b320a}
+::::
+
+:::: {.wrap-70 .align-center }
+![Eine Tonitexplosion zum Zweck der Befreiung der „Belgica“.](Die_erste_Suedpolarnacht_320b.jpg "Eine Tonitexplosion zum Zweck der Befreiung der „Belgica“."){#b320b}
+::::
+
 :::
 
 
