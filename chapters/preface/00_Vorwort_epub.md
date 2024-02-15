@@ -456,9 +456,9 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Eine Tonitexplosion zum Zweck der Befreiung der „Belgica“](ch030.xhtml#b320b)
 * [Entfernung der oberen Schicht vor dem Auseinandersägen der harten unteren Schicht](ch031.xhtml#b328a)
 * [Ein Kanal zur Befreiung der „Belgica“ aus ihrem Gefängnis](ch031.xhtml#b328b) 
-* Schwimmende Eisberge
-* Aussicht von dem Plateau eines Eisberges aus
-* Seltsame verwitterte Eisberge, 300 Fuss hoch
+* [Schwimmende Eisberge](ch032.xhtml#b336a) 
+* [Aussicht von dem Plateau eines Eisberges aus](ch032.xhtml#b336b) 
+* [Seltsame verwitterte Eisberge, 300 Fuss hoch](ch032.xhtml#b340a) 
 * Seesterne und Seeigel vom Grund des antarktischen Meeres
 * Eine neue Garneele der Gattung Euphausia, entdeckt durch Racovitza
 * Eine Gruppe Pinguins, die Besucher der „Belgica“
@@ -479,7 +479,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [„Nansen“, unser Liebling](ch028.xhtml#b286) 
 * [Verzerrtes Bild der aufgehenden Sonne](ch029.xhtml#b299)
 * [Schneebrille](ch031.xhtml#b321)
-* Segelschlitten
+* [Segelschlitten](ch032.xhtml#b343)
 
 
 

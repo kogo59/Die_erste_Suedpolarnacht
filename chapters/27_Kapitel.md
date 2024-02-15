@@ -269,7 +269,7 @@ Wetter haben, was sonst gewöhnlich nur bei Südwind der Fall ist. Wir geniessen
 in vollen Zügen den hellen Sonnenschein zum ersten Male seit vielen Wochen.
 
 Das Packeis zeigt auf einmal in einzelnen Teilen eine merkwürdige Bewegung,
-welche am besten aus der veränderten Sellung der verschiedenen Eisberge erhellt.
+welche am besten aus der veränderten Stellung der verschiedenen Eisberge erhellt.
 Eine gewisse Gesetzmässigkeit dieser Bewegung lässt sich nicht verkennen, aber
 es ist kein allgemeines Treiben wie sonst, wenn sich das ganze Packeis, je nach
 dem Winde, vorwärts oder rückwärts bewegt. Die „Belgica“, eingeeist in einer
