@@ -459,11 +459,11 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Schwimmende Eisberge](ch032.xhtml#b336a) 
 * [Aussicht von dem Plateau eines Eisberges aus](ch032.xhtml#b336b) 
 * [Seltsame verwitterte Eisberge, 300 Fuss hoch](ch032.xhtml#b340a) 
-* Seesterne und Seeigel vom Grund des antarktischen Meeres
-* Eine neue Garneele der Gattung Euphausia, entdeckt durch Racovitza
-* Eine Gruppe Pinguins, die Besucher der „Belgica“
-* Die Matrosen nach Ablauf der langen Nacht
-* Cap Renard (Danco-Land)
+* [Seesterne und Seeigel vom Grund des antarktischen Meeres](ch033.xhtml#b344a) 
+* [Eine neue Garneele der Gattung Euphausia, entdeckt durch Racovitza](ch033.xhtml#b344b) 
+* [Eine Gruppe Pinguins, die Besucher der „Belgica“](ch033.xhtml#b348) 
+* [Die Matrosen nach Ablauf der langen Nacht](ch033.xhtml#b352a)
+* [Cap Renard (Danco-Land)](ch033.xhtml#b356)
 
 
 ## <small>Textillustrationen.</small>

@@ -247,7 +247,7 @@ Fesseln zu brechen.
 ::::
 
 :::: {.wrap-70 .align-center  }
-![Seltsame verwitterte Eisberge, 300 Fuss hoch.](Die_erste_Suedpolarnacht_340b.jpg "ASeltsame verwitterte Eisberge, 300 Fuss hoch."){#b340b}
+![Seltsame verwitterte Eisberge, 300 Fuss hoch.](Die_erste_Suedpolarnacht_340b.jpg "Seltsame verwitterte Eisberge, 300 Fuss hoch."){#b340b}
 :::
 
 Im Oktober und November war eine starke Spaltung des Eises eingetreten, so dass
