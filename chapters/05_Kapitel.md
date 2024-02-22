@@ -410,7 +410,7 @@ begreifen.
 :::: break-before
 |                                       |                                       |
 |:-------------------------------------:|:-------------------------------------:|
-| ![](Die_erste_Suedpolarnacht_065a.jpg ""){#b032a width=90%}|![](Die_erste_Suedpolarnacht_065b.jpg ""){#b065b width=90%}.
+| ![](Die_erste_Suedpolarnacht_065a.jpg ""){#b065a width=90%}|![](Die_erste_Suedpolarnacht_065b.jpg ""){#b065b width=90%}.
 
 Table: Weddells Seeleoparden, Belgicastrasse.
 :::
@@ -547,7 +547,7 @@ Lage.
 ::::
 
 :::: {.wrap-80 .align-center }
-![Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve. <small>(Cap Lancaster im Hintergrund)</small>](Die_erste_Suedpolarnacht_068b.jpg "Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve."){#b06b}
+![Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve. <small>(Cap Lancaster im Hintergrund)</small>](Die_erste_Suedpolarnacht_068b.jpg "Arctowski sammelt Gesteinsproben, beachtet von einer Riesenraubmöve."){#b068b}
 ::::
 
 Bald nach Mittag umfuhren wir den vorspringenden Felsen, und um vier Uhr

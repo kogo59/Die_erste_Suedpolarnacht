@@ -370,7 +370,7 @@ matten Versuchen, das Schiff in Bewegung zu setzen.
 | ![](Die_erste_Suedpolarnacht_180a.jpg ""){#b180a width=70%}<br />Die Schneeschuhe der norwegischen Landleute.|![](Die_erste_Suedpolarnacht_180b.jpg ""){#b180b width=70%}<br />Der „Finesco“, ein Schuh aus finischer Renntierhaut, und der Alpen-Schneeschuh.|
 | ![](Die_erste_Suedpolarnacht_180c.jpg ""){#b180c width=70%}<br />Die amerikanischen Lumbermanschuhe.|![](Die_erste_Suedpolarnacht_180d.jpg ""){#b180d width=70%}<br />Der „Lauparsko“ mit Ski.|
 | ![](Die_erste_Suedpolarnacht_180e.jpg ""){#b180e width=70%}<br />Ein norwegischer „Truge“, ein aus Schilfrohr verfertigter Schneeschuh und der „Komager“, ein aus weichem Leder verfertigter Schuh.|![](Die_erste_Suedpolarnacht_180f.jpg ""){#b180f width=70%}<br />Der „Kamik“ der Eskimos.|
-| ![](Die_erste_Suedpolarnacht_180g.jpg ""){#b180e width=70%}<br />Schuh und Socke aus Pinguinfell.|![](Die_erste_Suedpolarnacht_180h.jpg ""){#b180f width=70%}<br />Der belgische Holzschuh.|
+| ![](Die_erste_Suedpolarnacht_180g.jpg ""){#b180g width=70%}<br />Schuh und Socke aus Pinguinfell.|![](Die_erste_Suedpolarnacht_180h.jpg ""){#b180h width=70%}<br />Der belgische Holzschuh.|
 Table: Eine Seite mit Schuhen von der „Belgica“.
 ::::
 

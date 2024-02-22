@@ -429,7 +429,7 @@ Bad bei einer Temperatur von 6° unter Null bewahrt zu haben.
 :::: break-before
 |                                       |                                       |
 |:-------------------------------------:|:-------------------------------------:|
-| ![](Die_erste_Suedpolarnacht_164a.jpg ""){#b032a width=70%}<br />(Gyrophora vellea (l) Nyl.). |![](Die_erste_Suedpolarnacht_164b.jpg ""){#b032b width=70%}<br />(Usnea sulphurea (Müll) T. Fr.).|
+| ![](Die_erste_Suedpolarnacht_164a.jpg ""){#b164a width=70%}<br />(Gyrophora vellea (l) Nyl.). |![](Die_erste_Suedpolarnacht_164b.jpg ""){#b032b width=70%}<br />(Usnea sulphurea (Müll) T. Fr.).|
 Table: Flechten.
 
 ::::

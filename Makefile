@@ -69,10 +69,9 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS_HTML_PDF
 	cp  *.css  $(IMAGES_FOLDER)
 	cp  $(IMAGES_FOLDER)/Die_erste_Suedpolarnacht_*.jpg .
 	cp  $(IMAGES_FOLDER)/cover.jpg .
-	cp  $(IMAGES_FOLDER)/logo.jpg .
 	pandoc $(ARGS_HTML) $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF)  $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 	rm Die_erste_Suedpolarnacht_*.jpg
 	rm cover.jpg 
-	rm logo.jpg
+
 

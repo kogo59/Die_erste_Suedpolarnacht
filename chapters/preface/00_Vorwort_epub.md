@@ -470,7 +470,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 
 * [Das „Krähennest“](ch005.xhtml#b001)
 * [Die „Belgica“](ch007.xhtml#b042)
-* [Grössenunterschied zwischen einem Ona und einem Kaukasier](ch011.xhtml#b087)
+* [Grössenunterschied zwischen einem Ona und einem Kaukasier](ch012.xhtml#b087)
 * [Schneesturmvogel](ch016.xhtml#b139)
 * [Gestalten des Mondes](ch018.xhtml#b178)
 * [Arctowski und Amundsen vor einem Spaziergang](ch023.xhtml#b233) 
@@ -479,7 +479,7 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [„Nansen“, unser Liebling](ch028.xhtml#b286) 
 * [Verzerrtes Bild der aufgehenden Sonne](ch029.xhtml#b299)
 * [Schneebrille](ch031.xhtml#b321)
-* [Segelschlitten](ch032.xhtml#b343)
+* [Segelschlitten](ch034.xhtml#b400)
 
 
 
