@@ -108,7 +108,7 @@ in der ersten Hälfte des 18. Jahrhunderts anstrebten, um den Handel mit dem
 Orient zu erleichtern, lenkte die öffentliche Aufmerksamkeit fortwährend nach
 Norden. Diese fortgesetzten Bemühungen, einen bequemen Weg zu den Reichtümern
 Asiens aufzufinden, waren fruchtlos, aber sie brachten einen Aufschwung des
-Walfischund Robbenfangs und einen Pelzhandel, der sich für die Menscheit von
+Walfisch und Robbenfangs und einen Pelzhandel, der sich für die Menschheit von
 unschätzbarem Nutzen erwiesen hat. Eine Folge dieser zwei Perioden von
 Handelsexpeditionen ist es, dass wir uns jetzt in einem dritten Stadium
 befinden, in einer Periode wissenschaftlicher Forschung, und diese wird und soll
