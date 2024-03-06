@@ -8,6 +8,10 @@ Authors:
 
 * [Cook Frederick Albert](https://de.wikipedia.org/wiki/Frederick_Cook) (1865-1940)
 
+Translator:
+
+* [Weber Anton](https://de.wikipedia.org/wiki/Anton_Weber_(Geistlicher))  (1846-1915)
+
 # Licenses
 Some or all works by this author are in the public domain in the United States
 because they were published before January 1, 1929. The author died in 1940, so
