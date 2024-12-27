@@ -347,4 +347,3 @@ Wirkung der Mitternachtsonne zur Zeit schon öfter beobachtet wurde.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

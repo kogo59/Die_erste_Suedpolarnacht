@@ -290,4 +290,3 @@ gleichmässigem Lichte erglänzte.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

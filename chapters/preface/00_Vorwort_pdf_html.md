@@ -482,15 +482,10 @@ ehrende Anerkennung, welche des Forschers einziger Lohn ist.
 * [Segelschlitten](#b400)
 
 
-
-
 :::: {.wrap-70 .align-center .break-before}
 ![Andrien de Gerlache.<br /><small>Leiter der belgischen Südpolarexpedition.</small>](Die_erste_Suedpolarnacht_019.jpg ""){#b019}
 ::::
 
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0001]: [*Adrien de Gerlache*: vergleiche [Adrien de Gerlache de Gomery](https://de.wikipedia.org/wiki/Adrien_de_Gerlache_de_Gomery)]{.footnote}
 

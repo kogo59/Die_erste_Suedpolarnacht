@@ -418,4 +418,3 @@ denken, wo die Öde und Verlassenheit so sehr auf das Gemüt drückt wie hier.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

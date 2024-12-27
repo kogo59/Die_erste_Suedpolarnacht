@@ -252,5 +252,3 @@ und Argentinien haben genug zu thun, um ihre eigenen Angelegenheiten zu ordnen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-

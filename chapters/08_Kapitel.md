@@ -530,4 +530,3 @@ sie ist als der ethische Codex vieler Weissen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

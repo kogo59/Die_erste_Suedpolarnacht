@@ -392,4 +392,3 @@ hoffen, ist aber nicht sicher.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

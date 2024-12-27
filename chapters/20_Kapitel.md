@@ -369,4 +369,3 @@ daraus befreiten.)
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

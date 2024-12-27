@@ -157,4 +157,3 @@ mit einigen Notizen über die Onas zufrieden geben.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

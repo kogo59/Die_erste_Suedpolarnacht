@@ -253,5 +253,3 @@ dem südatlantischen Ozean emporsteigt.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-

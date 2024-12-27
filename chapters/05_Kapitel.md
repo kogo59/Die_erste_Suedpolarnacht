@@ -586,10 +586,7 @@ Packet mit Briefen unser wartete.
 
 :::
 
-
 :::: align-center
 ****
 ::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 

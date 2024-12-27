@@ -408,4 +408,3 @@ der Kajüte bis zum Vorderdeck, mit hellem Jubel.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -292,6 +292,3 @@ den schneebedeckten Südpolargegenden.“
 ****
 ::::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-

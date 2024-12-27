@@ -454,5 +454,3 @@ widerfahren kann.
 ::::
 
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

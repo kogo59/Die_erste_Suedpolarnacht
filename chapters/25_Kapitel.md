@@ -284,4 +284,3 @@ auszuwählen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

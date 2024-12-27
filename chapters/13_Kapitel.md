@@ -519,4 +519,3 @@ Australien nach Viktorialand begeben.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

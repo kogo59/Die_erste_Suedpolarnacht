@@ -361,4 +361,3 @@ beschützen und an das Ziel zu führen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

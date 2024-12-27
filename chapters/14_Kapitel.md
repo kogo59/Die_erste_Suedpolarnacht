@@ -402,4 +402,3 @@ ersten von allen menschlichen Wesen die lange antarktische Nacht durchzumachen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

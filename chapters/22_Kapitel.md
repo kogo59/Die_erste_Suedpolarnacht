@@ -339,4 +339,3 @@ verschonen, ist alles an Bord wohl.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -369,4 +369,3 @@ schläft den langen Schlaf der kalten Winternacht.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

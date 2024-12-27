@@ -371,4 +371,3 @@ schliessen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

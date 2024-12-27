@@ -266,4 +266,3 @@ wiederholt füttern.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

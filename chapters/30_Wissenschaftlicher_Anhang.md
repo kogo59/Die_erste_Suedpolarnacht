@@ -1572,12 +1572,10 @@ Buchdruckerei der *Jos. Kösel’*schen Buchhandlung in Kempten.
 ![Die Fahrt der „Belgica“.](Die_erste_Suedpolarnacht_415.jpg "Die Fahrt der „Belgica“."){#415}
 ::::
 
-
 :::: align-center
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0000]: [BG. Neumayer, „Die Erforschung des Südpolargebietes‘“. Berlin 1872.<br />G. Neumayer, „Ueber Südpolarforschung“ (*Report of the Sixth International Geographical Congress, London 1895*).<br />Sir John Murray, ‚,*The Renewal of Antaretic Exploration*“ („*Geographical Journal*‘‘, Januar 1894); und „*Narrative of the Challenger Reports*“.<br />K. Fricker, „Entstehung und Verbreitung des antarktischen Treibeises“. Leipzig 1893.<br />K. Fricker, „Antarktis“, Berlin 1898.<br />Ueber die Literatur siehe T. Chavanne, „Die Literatur über die Polarregionen der Erde“ (Wien 1878); und die „Antarktische Nummer des *Scottish Geographical Magazine*“ (Oktober 1898).
 ]{.footnote}

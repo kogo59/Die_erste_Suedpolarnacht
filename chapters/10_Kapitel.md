@@ -364,4 +364,3 @@ Danco.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -371,5 +371,4 @@ gegen das jungfräuliche Eis südlich von Kap Horn unsern Angriff richten.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 

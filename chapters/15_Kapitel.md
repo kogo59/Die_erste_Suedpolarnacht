@@ -184,4 +184,3 @@ mit der Büchse zu versuchen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

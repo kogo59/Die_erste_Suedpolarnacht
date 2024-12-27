@@ -390,4 +390,3 @@ mit frischem Braten versehen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}

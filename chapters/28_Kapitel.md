@@ -323,4 +323,3 @@ Mond gleichzeitig am Himmel zu sehen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
