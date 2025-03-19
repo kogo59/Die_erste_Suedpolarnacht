@@ -1,4 +1,4 @@
-# <small>3. Kapitel.</small><br />Vorbereitung der Expedition. {#drei .unnumbered}
+# <small>III. Kapitel.</small><br />Vorbereitung der Expedition. {#drei .unnumbered}
 
 ::: align-right
 <small>Vor Kap Virgins, 29. November 1897.</small>

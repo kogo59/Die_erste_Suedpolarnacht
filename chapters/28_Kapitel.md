@@ -194,7 +194,7 @@ Die Tour war ausserordentlich anstrengend gewesen. Toolefsen, der sich uns im
 letzten Augenblicke vor dem Abmarsch noch angeschlossen hatte, war so erschöpft,
 dass er nach der Rückkehr zweimal ohnmächtig wurde. Der arme Junge! Er schien
 schon seit längerer Zeit durch den Einfluss des ununterbrochenen Tages und der
-hoffnungslosen Isolierung geistig etwas angegriffen. Wir dachden, dieser Ausflug
+hoffnungslosen Isolierung geistig etwas angegriffen. Wir dachten, dieser Ausflug
 würde ihm gut thun, aber leider trat das Gegenteil ein; sein Zustand
 verschlimmerte sich und ist er wirklich geisteskrank.
 
